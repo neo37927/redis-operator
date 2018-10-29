@@ -1,6 +1,6 @@
 # redis-operator
 ## conception  
-Conception of this project as follow :
+Conception of this project as follow :  
     1. Pipeline 
     2. Fluent
     
